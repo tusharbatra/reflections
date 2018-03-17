@@ -1,0 +1,3 @@
+A diff is pretty useful to find bugs, but only if there is some typo.
+It will not be that useful if the introduced bug is logical or something that is not a typo.
+New line
